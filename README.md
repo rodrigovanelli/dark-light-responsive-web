@@ -1,4 +1,5 @@
 🌗 Alternância de Tema Claro e Escuro
+
 Este projeto demonstra a alternância dinâmica entre os temas claro e escuro.
 
 Ao clicar no botão (ícone de sol ou lua), o JavaScript altera as classes CSS aplicadas aos elementos da página, modificando as cores de fundo e do texto para refletir o tema escolhido.
